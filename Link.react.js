@@ -7,6 +7,8 @@ const STATUS = {
   NORMAL: 'normal',
 };
 
+
+
 export default class Link extends React.Component {
   constructor() {
     super();
