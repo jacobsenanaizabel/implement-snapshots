@@ -1,0 +1,37 @@
+{
+  "name": "implement-snapshots",
+  "version": "1.0.0",
+  "description": "implement snapshot jest",
+  "main": ".babelrc.js",
+  "dependencies": {
+    "react": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "@babel/preset-react": "*",
+    "babel-jest": "*",
+    "jest": "*",
+    "react-test-renderer": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobsenanaizabel/implement-snapshots.git"
+  },
+  "keywords": [
+    "jest",
+    "snapshot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobsenanaizabel/implement-snapshots/issues"
+  },
+  "homepage": "https://github.com/jacobsenanaizabel/implement-snapshots#readme"
+}
